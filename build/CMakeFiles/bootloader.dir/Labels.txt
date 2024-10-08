@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/CMakeFiles/bootloader
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/CMakeFiles/bootloader.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/CMakeFiles/bootloader-complete.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/RafaelDias/Projetos_Acls/gateway_Teste_Lora/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
